@@ -17,7 +17,7 @@ It look cool I guess `¯\_(ツ)_/¯`
 
 **Can I use this ?**
 
-yup use it has you want.
+yup use it as you want.
 
 a link to this repo has credit would be nice.
 
