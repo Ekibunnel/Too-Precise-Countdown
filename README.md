@@ -23,4 +23,4 @@ a link to this repo has credit would be nice.
 
 ### Credits
 
-base code by [Yaphi Berhanu](https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/)
+base code by [Yaphi Berhanu, Nilson Jacques](https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/)
