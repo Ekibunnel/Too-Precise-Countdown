@@ -55,5 +55,3 @@ function initializeClock(id) {
   updateClock();
   window.requestAnimationFrame(updateClock);
 }
-
-initializeClock('clockdiv');
